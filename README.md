@@ -1,5 +1,4 @@
-# Breakhis
-Breast Cancer Detection on Histopathological Data                                                          
+# Breast Cancer Detection on Histopathological Data                                                          
 2022 Fourth International Conference on Emerging Research in Electronics, Computer Science and Technology (ICERECT)
 <ul>
 <li>Trained prominent CNN architectures ResNet50, AlexNet, and GoogleNet on BreakHis dataset from scratch
